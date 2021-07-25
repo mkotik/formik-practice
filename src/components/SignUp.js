@@ -42,7 +42,7 @@ export default function Signup() {
             <TextField label="First Name" name="firstName" type="text" />
             <TextField label="Last Name" name="lastName" type="text" />
             <TextField label="Email" name="email" type="email" />
-            <TextField label="password" name="password" type="password" />
+            <TextField label="Password" name="password" type="password" />
             <TextField
               label="Confirm Password"
               name="confirmPassword"
